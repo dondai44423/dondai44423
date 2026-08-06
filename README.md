@@ -1,10 +1,8 @@
 <div align="center">
 
-# Bishesh
+# Bishesh 🇳🇵
 
 <p>Building open source tools that solve annoying problems.</p>
-
-<p><sub>🇳🇵 Nepal</sub></p>
 
 ---
 
