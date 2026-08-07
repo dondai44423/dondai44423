@@ -3,7 +3,6 @@
 # Bishesh 🇳🇵
 
 <p>Building open source tools that solve annoying problems.</p>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G5Y624N5RE)
 
 ---
 
