@@ -22,6 +22,8 @@ I build things I wish already existed. Usually because the existing options were
 
 **[Master Fetch](https://github.com/dondai44423/master-fetch)** — MCP server for web fetching, crawling, and keyless search. Cloudflare bypass, PDF extraction with OCR, query-focused content extraction. No API keys, runs locally. Originally built under my previous account `dondai1234` which I lost access to. This is a maintained fork.
 
+**[DonSeTch](https://github.com/dondai44423/donsetch)** — Completely free MCP/CLI to give your agent the web for 0 dollars, local search by defualt with 10+ keyless backends, advance fetching that bypass a lot of bot detection, a self improvement feature, crawling, lots of optimization for ai agents, a BYOK options for people wanting dedicated search provider instead of local and much more, NO API keys by default. HOUND's successor.
+
 ---
 
 <div align="center">
