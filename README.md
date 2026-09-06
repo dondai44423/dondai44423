@@ -18,7 +18,7 @@ I build things I wish already existed. Usually because the existing options were
 
 ### Projects
 
-**[Bladebro](https://github.com/dondai44423/bladebro)** — Agentic browser driver for AI agents. 5 tools, real stealth, near-human reliability. Drives stock Chromium over CDP. Rust, single binary, zero runtime deps. Re-render immune refs, self-improving behavioral fingerprint, 6-layer stealth.
+**[Bladebro](https://github.com/dondai44423/bladebro)** — Agentic browser driver for AI agents. 5 tools, real stealth, near-human reliability. Drives stock Chromium over CDP. Rust, single binary, zero runtime deps. Re-render immune refs, self-improving behavioral fingerprint, 6-layer stealth. v4 Coming soon with major changes.
 
 **[Master Fetch](https://github.com/dondai44423/master-fetch)** — MCP server for web fetching, crawling, and keyless search. Cloudflare bypass, PDF extraction with OCR, query-focused content extraction. No API keys, runs locally. Originally built under my previous account `dondai1234` which I lost access to. This is a maintained fork.
 
